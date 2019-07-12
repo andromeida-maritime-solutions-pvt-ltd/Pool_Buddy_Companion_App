@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "108643630569",
+    "firebase_url": "https://pool-buddy-df22a.firebaseio.com",
+    "project_id": "pool-buddy-df22a",
+    "storage_bucket": "pool-buddy-df22a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108643630569:android:facc187db2c4c88d",
+        "android_client_info": {
+          "package_name": "com.andromeida.pool_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108643630569-ijihv40qgjeq06erch34563bjiio6je6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPe9UQOyxDFkdYf5je9g0Ej7eWOAc6gzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108643630569-ijihv40qgjeq06erch34563bjiio6je6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
