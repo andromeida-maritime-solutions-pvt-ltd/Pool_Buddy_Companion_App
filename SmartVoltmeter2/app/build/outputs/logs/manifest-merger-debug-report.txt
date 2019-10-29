@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\d1ee44b22d4bb90746c1c6cec884ebdb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\07c3e9c0b53bf9a957003bfdd7ded646\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\ff070e5d3d10e349dc90a0c1fbe26652\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\b319903c1498451e782993383b79c175\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\40eae09c7576e0b30dc2a19c3da091cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\4d583ccbf57ef08b8b2eff522daaffa6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\c73290bc8cf0cd2a5a8a704b11348b4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\d90e00c95b999747c250091ffe708105\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\f09a4c78459b7785805a454255104738\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\6a2da31ad7e9524279d432aa577db779\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\44765773cde6f077df9ad3301d8d2dc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\087a9b3c5e9bac416f9ff37bc6fe50ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\14710219f2da071efc845db7e90173eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\0a773c0ae3295126d45c2e5695d8a5aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\0238f767baff41e64d1e332f53dd9820\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\5c058f4419502de2ef0de45ae8d02a7c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\31127409327e6c62885a766c8df556e7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\e6b26fec97463db9d7a96cfa9333726b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\0a3870ce846f60f6e4b07d5286032ea2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\512d7e847840c1962aab286b45107409\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\65af27a763b2668f22be1b7d291a0df7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\10df9c7c88a32ec89ea2e37124ca15ca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\fefcf51ccb7c473ca6fd7c3ee89802d5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\6472ab99343eb4aff2d115eb732174e1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\e552a44dcaa11493ef8cc6e298b45509\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\a2c64465a28d9bad41490f5776d7e849\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\e744e37132fe105eed023361c82b657a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\07c3e9c0b53bf9a957003bfdd7ded646\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\07c3e9c0b53bf9a957003bfdd7ded646\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\5c058f4419502de2ef0de45ae8d02a7c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\5c058f4419502de2ef0de45ae8d02a7c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\31127409327e6c62885a766c8df556e7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\31127409327e6c62885a766c8df556e7\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\5c058f4419502de2ef0de45ae8d02a7c\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.smartvoltmeter.sql
+ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:15:9-50
+	android:name
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:15:19-38
+activity#com.example.smartvoltmeter.Firebase
+ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:16:9-46
+	android:name
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:16:19-43
+activity#com.example.smartvoltmeter.MainActivity
+ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\d1ee44b22d4bb90746c1c6cec884ebdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\d1ee44b22d4bb90746c1c6cec884ebdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\07c3e9c0b53bf9a957003bfdd7ded646\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\07c3e9c0b53bf9a957003bfdd7ded646\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\ff070e5d3d10e349dc90a0c1fbe26652\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\ff070e5d3d10e349dc90a0c1fbe26652\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\b319903c1498451e782993383b79c175\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\b319903c1498451e782993383b79c175\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\40eae09c7576e0b30dc2a19c3da091cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\40eae09c7576e0b30dc2a19c3da091cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\4d583ccbf57ef08b8b2eff522daaffa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\4d583ccbf57ef08b8b2eff522daaffa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\c73290bc8cf0cd2a5a8a704b11348b4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\c73290bc8cf0cd2a5a8a704b11348b4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\d90e00c95b999747c250091ffe708105\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\d90e00c95b999747c250091ffe708105\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\f09a4c78459b7785805a454255104738\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\f09a4c78459b7785805a454255104738\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\6a2da31ad7e9524279d432aa577db779\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\6a2da31ad7e9524279d432aa577db779\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\44765773cde6f077df9ad3301d8d2dc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\44765773cde6f077df9ad3301d8d2dc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\087a9b3c5e9bac416f9ff37bc6fe50ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\087a9b3c5e9bac416f9ff37bc6fe50ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\14710219f2da071efc845db7e90173eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\14710219f2da071efc845db7e90173eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\0a773c0ae3295126d45c2e5695d8a5aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\0a773c0ae3295126d45c2e5695d8a5aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\0238f767baff41e64d1e332f53dd9820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\0238f767baff41e64d1e332f53dd9820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\5c058f4419502de2ef0de45ae8d02a7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\5c058f4419502de2ef0de45ae8d02a7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\31127409327e6c62885a766c8df556e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\31127409327e6c62885a766c8df556e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\e6b26fec97463db9d7a96cfa9333726b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\e6b26fec97463db9d7a96cfa9333726b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\0a3870ce846f60f6e4b07d5286032ea2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\0a3870ce846f60f6e4b07d5286032ea2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\512d7e847840c1962aab286b45107409\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\512d7e847840c1962aab286b45107409\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\65af27a763b2668f22be1b7d291a0df7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\65af27a763b2668f22be1b7d291a0df7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\10df9c7c88a32ec89ea2e37124ca15ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\10df9c7c88a32ec89ea2e37124ca15ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\fefcf51ccb7c473ca6fd7c3ee89802d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\fefcf51ccb7c473ca6fd7c3ee89802d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\6472ab99343eb4aff2d115eb732174e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\6472ab99343eb4aff2d115eb732174e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\e552a44dcaa11493ef8cc6e298b45509\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\e552a44dcaa11493ef8cc6e298b45509\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\a2c64465a28d9bad41490f5776d7e849\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\a2c64465a28d9bad41490f5776d7e849\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\e744e37132fe105eed023361c82b657a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\akilesh9707\.gradle\caches\transforms-2\files-2.1\e744e37132fe105eed023361c82b657a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\akilesh9707\qgroundcontrol-master\SmartVoltmeter2\app\src\main\AndroidManifest.xml
