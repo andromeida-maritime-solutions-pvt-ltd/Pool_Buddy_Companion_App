@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/colorAccent">
+
+    <Button
+        android:id="@+id/mysql"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Navigate to Q ground Control"
+        android:textAlignment="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="100dp"
+        />
+    <TextView
+        android:id="@+id/Sensors_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SENSORS DATA"
+        android:layout_below="@+id/mysql"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="25dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="20dp"
+
+        />
+
+        <TextView
+            android:id="@+id/ph_value"
+            android:lineSpacingExtra="5dp"
+            android:textSize="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="PH value=7.6 \n\nTDS VALUE=150\n\nLSI VALUE=2.5\n\nCORROSIVE IN NATURE\n\n"
+            android:layout_below="@+id/Sensors_value"
+
+
+            />
+
+
+
+
+
+</RelativeLayout>
